@@ -179,4 +179,4 @@ set number
 let g:gitgutter_enabled=0
 nnoremap <silent> <leader>d :GitGutterToggle<cr>
 
-let g:fugitive_gitlab_domains = ['http://mygitlab', 'http://mygitlab.mydomain.com']
+let g:fugitive_gitlab_domains = ['https://gitlab', 'http://mygitlab', 'http://mygitlab.mydomain.com']
